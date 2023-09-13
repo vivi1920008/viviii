@@ -1,6 +1,6 @@
 # SEJA BEM VINDO AO MEU PERFIL! 💗
 
-Meu nome é Vitória Franco
+Meu nome é Vitória Franco 💓
 
 -Estou estudando no Alura
 - Estou desenvolvendo no linguagem JavaScript
